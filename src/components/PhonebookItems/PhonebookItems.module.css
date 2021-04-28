@@ -1,0 +1,22 @@
+.contactItem {
+  width: 250px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: baseline;
+  align-items: center;
+}
+
+.btn {
+  font-family: 'Roboto', sans-serif;
+  cursor: pointer;
+  border: 1px solid rgb(194, 194, 194);
+  border-radius: 2px;
+  outline: none;
+  background-color: #fff;
+  padding: 2px;
+  margin-left: auto;
+}
+
+.btn:active {
+  background-color: rgb(1, 186, 199);
+}
